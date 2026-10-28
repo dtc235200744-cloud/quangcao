@@ -7,14 +7,14 @@ const js = fs.readFileSync('script.js', 'utf-8');
 const workerCode = `/**
  * Cloudflare Worker for Ruou Men La Bang Phuc - Bac Kan
  * Live URL: https://mycv.dtc235200744.workers.dev/
- * GitHub: https://github.com/dtc235200744-cloud/mycv
+ * GitHub: https://github.com/dtc235200744-cloud/quangcao
  */
 
 const HTML_CONTENT = ${JSON.stringify(html)};
 const CSS_CONTENT = ${JSON.stringify(css)};
 const JS_CONTENT = ${JSON.stringify(js)};
 
-const GITHUB_PAGES_BASE = "https://dtc235200744-cloud.github.io/mycv";
+const GITHUB_PAGES_BASE = "https://dtc235200744-cloud.github.io/quangcao";
 
 export default {
   async fetch(request, env, ctx) {

@@ -22,7 +22,7 @@
   - Modal xem nhanh chi tiết sản phẩm (Quick View) nồng độ, dung tích, thời gian hạ thổ.
   - Đặt hàng nhanh tích hợp gửi đơn hàng trực tiếp qua **Zalo Hotline (0987.654.321)** chỉ với 1 chạm.
 - 📦 **Tối Ưu Triển Khai Kép**:
-  - Chạy trực tiếp trên **GitHub Pages**: `https://dtc235200744-cloud.github.io/mycv/`
+  - Chạy trực tiếp trên **GitHub Pages**: `https://dtc235200744-cloud.github.io/quangcao/`
   - Chạy trên **Cloudflare Edge Worker**: `https://mycv.dtc235200744.workers.dev/`
 
 ---
@@ -48,7 +48,7 @@ CV/
 
 ---
 
-## 🛠️ Hướng Dẫn Chạy & Cài Đặt Lên Link `dtc235200744-cloud/mycv`
+## 🛠️ Hướng Dẫn Chạy & Cài Đặt Lên Link `dtc235200744-cloud/quangcao`
 
 ### 1. Xem Thử Nghiệm Trên Máy Tính (Local Server)
 ```bash
@@ -59,7 +59,7 @@ Truy cập: `http://localhost:3000`
 
 ---
 
-### 2. Cài Đặt Lên GitHub Pages (Link `dtc235200744-cloud/mycv`)
+### 2. Cài Đặt Lên GitHub Pages (Link `dtc235200744-cloud/quangcao`)
 
 1. Lưu tất cả thay đổi và đẩy lên GitHub:
    ```bash
@@ -68,10 +68,10 @@ Truy cập: `http://localhost:3000`
    git push origin main
    ```
 2. Truy cập vào kho lưu trữ GitHub:
-   👉 **`https://github.com/dtc235200744-cloud/mycv`**
+   👉 **`https://github.com/dtc235200744-cloud/quangcao`**
 3. Vào **Settings** > **Pages** > tại mục **Branch**, chọn nhánh `main` và thư mục `/(root)` rồi bấm **Save**.
 4. Website bán Rượu Bằng Phúc sẽ chính thức hoạt động tại link:
-   👉 **`https://dtc235200744-cloud.github.io/mycv/`**
+   👉 **`https://dtc235200744-cloud.github.io/quangcao/`**
 
 ---
 
